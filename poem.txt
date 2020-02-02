@@ -8,5 +8,6 @@ Red
 Unicorn
 Purple
 White
+Cream
 These are the colors of Rainbow.
 And the Unicorn.
