@@ -6,4 +6,5 @@ Green
 Yellow
 Red
 Purple
+White
 These are the colors of Rainbow.
