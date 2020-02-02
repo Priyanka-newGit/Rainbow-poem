@@ -1,0 +1,8 @@
+The Rainbow
+
+Voilet
+Indigo
+Green
+Yellow
+Red
+These are the colors of Rainbow.
